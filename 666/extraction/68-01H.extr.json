@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "ed847e8e105cc37267ce0bc544d4e5ad31781240",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 2.1,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0013",
+    "measured_response": "YidXXHhjN1x4YjdOXHgwMFx4MDBceDAwXHgwMGBceDliXHhlMj1ceDAwXHgwMFx4ZmFEcXRceDA3QFx4MDBceDAwXHhmYURyXHhkY1x4ODNAXHgwMFx4MDBceGZhRDxceGYzXHhjM0BceDAwXHgwMFx4ZmFEOSFceDAyQVx4MDBceDAwXHhmYURHKyJBXHgwMFx4MDBceGZhRFx4ZGE8QkFceDAwXHgwMFx4ZmFETVBiQVx4MDBceDAwXHhmYURceDg1PVx4ODFBXHgwMFx4MDBceGZhRDVWXHg5MUFceDAwXHgwMFx4ZmFEXHhiZVx4YTJceGExQVx4MDBceDAwXHhmYURceGZlXHhiNFx4YjFBXHgwMFx4MDBceGZhREhceGQ3XHhjMUFceDAwXHgwMFx4ZmFEXHg4OVx4ZTNceGQxQVx4MDBceDAwXHhmYURceDAyJFx4ZTJBXHgwMFx4MDBceGZhRFx4MTA9XHhmMkFceDAwXHgwMFx4ZmFEXHhlOSFceDAxQlx4MDBceDAwXHhmYURceGFiJlx0Qlx4MDBceDAwXHhmYURKKFx4MTFCXHgwMFx4MDBceGZhRFx4OTUtXHgxOUJceDAwXHgwMFx4ZmFENzIhQlx4MDBceDAwXHhmYURceDE5OilCXHgwMFx4MDBceGZhRFx4OGZJMUJceDAwXHgwMFx4ZmFEXHhkM1M5Qlx4MDBceDAwXHhmYURceGQ0WkFCXHgwMFx4MDBceGZhRFx4ODB2SUJceDAwXHgwMFx4ZmFEXHhhZHhRQlx4MDBceDAwXHhmYURceGQ4XHg3ZllCXHgwMFx4MDBceGZhRCc=",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "4",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidXXHhjN1x4YjdOXHgwMFx4MDBceDAwXHgwMGBceDliXHhlMj1cXF5ceDljQXF0XHgwN0BceDAwXHgwMFx4MDBceDAwclx4ZGNceDgzQFx4MDBceDAwXHgwMFx4MDA8XHhmM1x4YzNAXHgwMFx4MDBceDAwXHgwMDkhXHgwMkExXFxceDlkQUcrIkExXFxceDlkQVx4ZGE8QkExXFxceDlkQU1QYkExXFxceDlkQVx4ODU9XHg4MUExXFxceDlkQTVWXHg5MUExXFxceDlkQVx4YmVceGEyXHhhMUExXFxceDlkQVx4ZmVceGI0XHhiMUExXFxceDlkQUhceGQ3XHhjMUExXFxceDlkQVx4ODlceGUzXHhkMUExXFxceDlkQVx4MDIkXHhlMkExXFxceDlkQVx4MTA9XHhmMkExXFxceDlkQVx4ZTkhXHgwMUIxXFxceDlkQVx4YWImXHRCMVxcXHg5ZEFKKFx4MTFCMVxcXHg5ZEFceDk1LVx4MTlCMVxcXHg5ZEE3MiFCMVxcXHg5ZEFceDE5OilCMVxcXHg5ZEFceDhmSTFCMVxcXHg5ZEFceGQzUzlCMVxcXHg5ZEFceGQ0WkFCMVxcXHg5ZEFceDgwdklCMVxcXHg5ZEFceGFkeFFCMVxcXHg5ZEFceGQ4XHg3ZllCMVxcXHg5ZEEn",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 2.74
+}
