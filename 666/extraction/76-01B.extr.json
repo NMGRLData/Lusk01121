@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "80193bd5e716de5c474f5c46469ad357dad94c12",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 1.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0016",
+    "measured_response": "YiJceDBiKFx4YjhOXHgwMFx4MDBceDAwXHgwMEBlLT1ceDAwXHgwMFx4ZmFEXHhkYmdceDAzQFx4MDBceDAwXHhmYURceDljXHhlZVx4ODFAXHgwMFx4MDBceGZhRFx4ZDBceDE1XHhjMkBceDAwXHgwMFx4ZmFEZidceDAxQVx4MDBceDAwXHhmYURzJyFBXHgwMFx4MDBceGZhREUlQUFceDAwXHgwMFx4ZmFEVidhQVx4MDBceDAwXHhmYURceGNlXHg5Mlx4ODBBXHgwMFx4MDBceGZhRFx4MTFceDk5XHg5MEFceDAwXHgwMFx4ZmFEMFx4YTNceGEwQVx4MDBceDAwXHhmYURcXFx4YWJceGIwQVx4MDBceDAwXHhmYURceDhlXHhiOVx4YzBBXHgwMFx4MDBceGZhREhceGQzXHhkMEFceDAwXHgwMFx4ZmFEXHhjZVx4ZDhceGUwQVx4MDBceDAwXHhmYURceGU0XHhkN1x4ZjBBXHgwMFx4MDBceGZhRGprXHgwMEJceDAwXHgwMFx4ZmFEXHhkMmpceDA4Qlx4MDBceDAwXHhmYURceGNhalx4MTBCXHgwMFx4MDBceGZhRFlrXHgxOEJceDAwXHgwMFx4ZmFEXHhlMm8gQlx4MDBceDAwXHhmYURweShCXHgwMFx4MDBceGZhRFx4YjJ9MEJceDAwXHgwMFx4ZmFELFx4ODI4Qlx4MDBceDAwXHhmYUQi",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "19",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 8.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YiJceDBiKFx4YjhOXHgwMFx4MDBceDAwXHgwMEBlLT1oP1x4OTBBXHhkYmdceDAzQFx4MDBceDAwXHgwMFx4MDBceDljXHhlZVx4ODFAXHgwMFx4MDBceDAwXHgwMFx4ZDBceDE1XHhjMkBceDAwXHgwMFx4MDBceDAwZidceDAxQUxMXHg5MkFzJyFBTExceDkyQUUlQUFMTFx4OTJBVidhQUxMXHg5MkFceGNlXHg5Mlx4ODBBTExceDkyQVx4MTFceDk5XHg5MEFMTFx4OTJBMFx4YTNceGEwQUxMXHg5MkFcXFx4YWJceGIwQUxMXHg5MkFceDhlXHhiOVx4YzBBTExceDkyQUhceGQzXHhkMEFMTFx4OTJBXHhjZVx4ZDhceGUwQUxMXHg5MkFceGU0XHhkN1x4ZjBBTExceDkyQWprXHgwMEJMTFx4OTJBXHhkMmpceDA4QkxMXHg5MkFceGNhalx4MTBCTExceDkyQVlrXHgxOEJMTFx4OTJBXHhlMm8gQkxMXHg5MkFweShCTExceDkyQVx4YjJ9MEJMTFx4OTJBLFx4ODI4QkxMXHg5MkEi",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.53
+}
