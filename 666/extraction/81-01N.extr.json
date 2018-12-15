@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "80193bd5e716de5c474f5c46469ad357dad94c12",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 8.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0016",
+    "measured_response": "YicgKlx4YjhOXHgwMFx4MDBceDAwXHgwMCAuXHhjMz1ceDAwXHgwMFx4ZmFEXHhjN2VceDA2QFx4MDBceDAwXHhmYUQiQlx4ODNAXHgwMFx4MDBceGZhRHx7XHhjM0BceDAwXHgwMFx4ZmFEXHgxYVx4ZmRceDAxQVx4MDBceDAwXHhmYURRXHgwYiJBXHgwMFx4MDBceGZhRCpceDFkQkFceDAwXHgwMFx4ZmFEK1x4MWRiQVx4MDBceDAwXHhmYURceDljXHgxYVx4ODFBXHgwMFx4MDBceGZhRCBcJ1x4OTFBXHgwMFx4MDBceGZhRGcxXHhhMUFceDAwXHgwMFx4ZmFEazBceGIxQVx4MDBceDAwXHhmYURlL1x4YzFBXHgwMFx4MDBceGZhRFx4YzQvXHhkMUFceDAwXHgwMFx4ZmFEXHhiNTxceGUxQVx4MDBceDAwXHhmYURceGI5SFx4ZjFBXHgwMFx4MDBceGZhRFx4OWNceGFhXHgwMEJceDAwXHgwMFx4ZmFEXHhjM1x4YjFceDA4Qlx4MDBceDAwXHhmYURceGJjXHhiOFx4MTBCXHgwMFx4MDBceGZhRFJceGMwXHgxOEJceDAwXHgwMFx4ZmFEYVx4YzYgQlx4MDBceDAwXHhmYURceGFmXHhjOShCXHgwMFx4MDBceGZhRFx4MDNceGQxMEJceDAwXHgwMFx4ZmFEXHg4Y1x4ZDc4Qlx4MDBceDAwXHhmYUQn",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "27",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 8.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YicgKlx4YjhOXHgwMFx4MDBceDAwXHgwMCAuXHhjMz1ceGY5SVx4YzJBXHhjN2VceDA2QFx4MDBceDAwXHgwMFx4MDAiQlx4ODNAXHgwMFx4MDBceDAwXHgwMHx7XHhjM0BceDAwXHgwMFx4MDBceDAwXHgxYVx4ZmRceDAxQWE5XHhkNEFRXHgwYiJBYTlceGQ0QSpceDFkQkFhOVx4ZDRBK1x4MWRiQWE5XHhkNEFceDljXHgxYVx4ODFBYTlceGQ0QSBcJ1x4OTFBYTlceGQ0QWcxXHhhMUFhOVx4ZDRBazBceGIxQWE5XHhkNEFlL1x4YzFBYTlceGQ0QVx4YzQvXHhkMUFhOVx4ZDRBXHhiNTxceGUxQWE5XHhkNEFceGI5SFx4ZjFBYTlceGQ0QVx4OWNceGFhXHgwMEJhOVx4ZDRBXHhjM1x4YjFceDA4QmE5XHhkNEFceGJjXHhiOFx4MTBCYTlceGQ0QVJceGMwXHgxOEJhOVx4ZDRBYVx4YzYgQmE5XHhkNEFceGFmXHhjOShCYTlceGQ0QVx4MDNceGQxMEJhOVx4ZDRBXHg4Y1x4ZDc4QmE5XHhkNEEn",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 1.04
+}
