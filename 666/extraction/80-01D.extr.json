@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "80193bd5e716de5c474f5c46469ad357dad94c12",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 2.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0016",
+    "measured_response": "Yid9KVx4YjhOXHgwMFx4MDBceDAwXHgwMFx4YTBceGEzXHhkNT1ceDAwXHgwMFx4ZmFESVx4ZjBceDA2QFx4MDBceDAwXHhmYURceDA4XHg5M1x4ODNAXHgwMFx4MDBceGZhRGBceGUzXHhjM0BceDAwXHgwMFx4ZmFEK1x4MGNceDAyQVx4MDBceDAwXHhmYURyNCJBXHgwMFx4MDBceGZhREVcXEJBXHgwMFx4MDBceGZhRFx4ZmVZYkFceDAwXHgwMFx4ZmFEajRceDgxQVx4MDBceDAwXHhmYURceGMxNFx4OTFBXHgwMFx4MDBceGZhRGg7XHhhMUFceDAwXHgwMFx4ZmFEU0hceGIxQVx4MDBceDAwXHhmYURceGQwUVx4YzFBXHgwMFx4MDBceGZhRFx4MTBeXHhkMUFceDAwXHgwMFx4ZmFEXHg4MWxceGUxQVx4MDBceDAwXHhmYURBbFx4ZjFBXHgwMFx4MDBceGZhRE5ceGI3XHgwMEJceDAwXHgwMFx4ZmFEXHhkNlx4YjdceDA4Qlx4MDBceDAwXHhmYURceGYzXHhjMlx4MTBCXHgwMFx4MDBceGZhRFdceGNiXHgxOEJceDAwXHgwMFx4ZmFEeFx4Y2EgQlx4MDBceDAwXHhmYUQqXHhjYyhCXHgwMFx4MDBceGZhRGhceGQyMEJceDAwXHgwMFx4ZmFESFx4ZDg4Qlx4MDBceDAwXHhmYUQn",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "25",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 8.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Yid9KVx4YjhOXHgwMFx4MDBceDAwXHgwMFx4YTBceGEzXHhkNT1ceGJlXHhlMFx4OTlBSVx4ZjBceDA2QFx4MDBceDAwXHgwMFx4MDBceDA4XHg5M1x4ODNAXHgwMFx4MDBceDAwXHgwMGBceGUzXHhjM0BceDAwXHgwMFx4MDBceDAwK1x4MGNceDAyQVxcXlx4OWNBcjQiQVxcXlx4OWNBRVxcQkFcXF5ceDljQVx4ZmVZYkFcXF5ceDljQWo0XHg4MUFcXF5ceDljQVx4YzE0XHg5MUFcXF5ceDljQWg7XHhhMUFcXF5ceDljQVNIXHhiMUFcXF5ceDljQVx4ZDBRXHhjMUFcXF5ceDljQVx4MTBeXHhkMUFcXF5ceDljQVx4ODFsXHhlMUFcXF5ceDljQUFsXHhmMUFcXF5ceDljQU5ceGI3XHgwMEJcXF5ceDljQVx4ZDZceGI3XHgwOEJcXF5ceDljQVx4ZjNceGMyXHgxMEJcXF5ceDljQVdceGNiXHgxOEJcXF5ceDljQXhceGNhIEJcXF5ceDljQSpceGNjKEJcXF5ceDljQWhceGQyMEJcXF5ceDljQUhceGQ4OEJcXF5ceDljQSc=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 1.02
+}
