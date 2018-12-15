@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "80193bd5e716de5c474f5c46469ad357dad94c12",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 30.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0016",
+    "measured_response": "YidceGFlKlx4YjhOXHgwMFx4MDBceDAwXHgwMGAuXHhlMj1ceDAwXHgwMFx4ZmFEXHgwN1x4ZDRceDA3QFx4MDBceDAwXHhmYURTXHhmOFx4ODNAXHgwMFx4MDBceGZhRFx4ODhceGYwXHhjM0BceDAwXHgwMFx4ZmFEYiBceDAyQVx4MDBceDAwXHhmYURTJSJBXHgwMFx4MDBceGZhRHI1QkFceDAwXHgwMFx4ZmFEMUliQVx4MDBceDAwXHhmYUR0L1x4ODFBXHgwMFx4MDBceGZhRFx4YjQ8XHg5MUFceDAwXHgwMFx4ZmFEXHhhZUtceGExQVx4MDBceDAwXHhmYURcblVceGIxQVx4MDBceDAwXHhmYURceDk5Xlx4YzFBXHgwMFx4MDBceGZhRC9eXHhkMUFceDAwXHgwMFx4ZmFEXHhlM2pceGUxQVx4MDBceDAwXHhmYURceGYzcVx4ZjFBXHgwMFx4MDBceGZhRDZceGI4XHgwMEJceDAwXHgwMFx4ZmFEXHhkNVx4YmJceDA4Qlx4MDBceDAwXHhmYURceGJhXHhiY1x4MTBCXHgwMFx4MDBceGZhRFx4YzlceGJjXHgxOEJceDAwXHgwMFx4ZmFEXHhlN1x4YzQgQlx4MDBceDAwXHhmYUREXHhjZChCXHgwMFx4MDBceGZhRFwnXHhkMjBCXHgwMFx4MDBceGZhRFx4OTlceGQ4OEJceDAwXHgwMFx4ZmFEJw==",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "29",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 8.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGFlKlx4YjhOXHgwMFx4MDBceDAwXHgwMGAuXHhlMj1ceGQxXHgwM1x4MDhCXHgwN1x4ZDRceDA3QFx4MDBceDAwXHgwMFx4MDBTXHhmOFx4ODNAXHgwMFx4MDBceDAwXHgwMFx4ODhceGYwXHhjM0BceDAwXHgwMFx4MDBceDAwYiBceDAyQVx4ODZ4R0JTJSJBXHg4NnhHQnI1QkFceDg2eEdCMUliQVx4ODZ4R0J0L1x4ODFBXHg4NnhHQlx4YjQ8XHg5MUFceDg2eEdCXHhhZUtceGExQVx4ODZ4R0JcblVceGIxQVx4ODZ4R0JceDk5Xlx4YzFBXHg4NnhHQi9eXHhkMUFceDg2eEdCXHhlM2pceGUxQVx4ODZ4R0JceGYzcVx4ZjFBXHg4NnhHQjZceGI4XHgwMEJceDg2eEdCXHhkNVx4YmJceDA4Qlx4ODZ4R0JceGJhXHhiY1x4MTBCXHg4NnhHQlx4YzlceGJjXHgxOEJceDg2eEdCXHhlN1x4YzQgQlx4ODZ4R0JEXHhjZChCXHg4NnhHQlwnXHhkMjBCXHg4NnhHQlx4OTlceGQ4OEJceDg2eEdCJw==",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.73
+}
